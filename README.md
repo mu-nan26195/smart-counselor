@@ -49,12 +49,6 @@ smart-counselor/
 - 实时对话交互界面
 - 多终端响应式设计
 
-## 🤝 如何贡献
-1. Fork本项目
-2. 创建新分支 (`git checkout -b feature/xxx`)
-3. 提交修改 (`git commit -am 'Add xxx'`)
-4. 推送分支 (`git push origin feature/xxx`)
-5. 新建Pull Request
 
 ## 📄 许可证
 [MIT License](LICENSE)
