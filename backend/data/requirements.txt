@@ -1,0 +1,4 @@
+flask==2.3.2
+flask-cors==3.0.10
+py2neo==2021.2.4
+ahocorasick==1.4.4
